@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(185, 230, 255);
+}
+h2{
+    font-family: sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: brown;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 18px;
+    text-align: justify;
+}
+
+#destaque {
+    font-weight: bold;
+}
