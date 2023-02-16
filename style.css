@@ -23,3 +23,50 @@ p {
 #destaque {
     font-weight: bold;
 }
+
+.comunic {
+    font-size: xx-large;
+    color: coral;
+    font-style: oblique;
+}
+
+.criat {
+    font-size: large;
+    color: crimson;
+}
+
+.lid {
+    font-size: medium;
+    color: darkgreen;
+}
+
+.gestp {
+    font-size: small;
+    color: sienna;
+}
+
+.int {
+    font-size: smaller;
+    color: darkgray ;
+}
+
+.foto-link {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.blog-link {
+    font-size: 25px;
+    color: tomato;
+}
+
+.descr-link {
+    font-size: 35px;
+    color: yellow;
+}
+
+.hab-link {
+    font-size: 50px;
+    font-style: italic;
+    color: teal;
+}
